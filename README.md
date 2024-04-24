@@ -1,2 +1,2 @@
-# Quizz_CorteIII
-Quizz sobre componentes en vue.js
+# Programación_Móvil_CorteIII
+
